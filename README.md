@@ -15,21 +15,17 @@ write code for scientific applications, and enjoy working with data.
 If you'd like to see what I'm most proud of in this this Github account, please
 check out
 
-   – [Djengu](https://github.com/johnckealy/djengu)
-
+  [Djengu](https://github.com/johnckealy/djengu)
   An open-source framework for quickly and painlessly prototyping Django + Vue.js web applications.
 
-   – [Windy Plugin Skew-T](https://github.com/johnckealy/windy-plugin-skewt)
-
+  [Windy Plugin Skew-T](https://github.com/johnckealy/windy-plugin-skewt)
   A plugin for the famous weather website, [windy.com](https://windy.com).
 
-   – [FlorA](https://github.com/johnckealy/flora)
-
+  [FlorA](https://github.com/johnckealy/flora)
   The source code of [flora.works](https://flora.works), an application for controlling and monitoring
   houseplant IoT devices.
 
-   – [Vue-Auth JWT](https://github.com/johnckealy/vue-auth-jwt)
-
+  [Vue-Auth JWT](https://github.com/johnckealy/vue-auth-jwt)
   A plugin for authenication and authorization with Vue.js when using JWT. An easy way to interact
   with a backend when using httpOnly cookies. Also includes state management for authorized users.
 
