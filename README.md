@@ -31,6 +31,7 @@ check out:
 
 **Below are some of my favourite languages and technologies:**  
 
+<code><img height="35" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/python.png"></code>
 <code><img height="35" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/postgresql.png"></code>
 <code><img height="35" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/vue.png"></code>
 <code><img height="35" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/Html_css.jpg"></code>
