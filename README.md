@@ -1,7 +1,7 @@
 ### Hi, I'm John. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/johnckealy/">
-  <img align="left" alt="John Kealy | Linkedin" width="22px" src=src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/linkedin.svg" />
+  <img align="left" alt="John Kealy | Linkedin" width="22px" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/linkedin.svg" />
 </a>
 
 <br />
