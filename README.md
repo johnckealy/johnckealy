@@ -12,6 +12,8 @@ I'm [John Kealy](https://johnkealy.com/), and I'm a full-stack developer. That m
 for both the backend and frontend of web applications, and I deploy them to the world-wide web. I also
 write code for scientific applications, and enjoy working with data.
 
+<hr/>
+
 If you'd like to see what I'm most proud of in this this Github account, please
 check out
 
