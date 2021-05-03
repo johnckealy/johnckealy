@@ -26,7 +26,7 @@ check out:
   [Vue-Auth JWT](https://github.com/johnckealy/vue-auth-jwt), a plugin for authenication and authorization with Vue.js when using JWT. An easy way to interact with a backend that serves httpOnly cookies. Also includes state management for authorized users.
 
 
-  <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/coder.gif?raw=true" width="380" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/coder.gif?raw=true" width="320" height="180" />
 
 
 **Below are some of my favourite languages and technologies:**  
