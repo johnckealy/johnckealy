@@ -23,7 +23,7 @@ check out:
 
   [FlorA](https://github.com/johnckealy/flora), the source code of [flora.works](https://flora.works), an MVP application for FlorA plant care – a startup aimed at controlling and monitoring houseplanting using IoT devices.
 
-  [Vue-Auth JWT](https://github.com/johnckealy/vue-auth-jwt), a plugin for authenication and authorization with Vue.js when using JWT. An easy way to interact with a backend that serves httpOnly cookies. Also includes state management for authorized users.
+  [Vue-Auth JWT](https://github.com/johnckealy/vue-auth-jwt), a plugin for authentication and authorization with Vue.js when using JWT – an easy way to interact with a backend that serves `httpOnly` cookies. Also includes state management for authorized users.
 
 
   <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/coder.gif?raw=true" width="320" height="180" />
