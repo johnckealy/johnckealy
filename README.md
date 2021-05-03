@@ -18,7 +18,7 @@ check out
    – [FlorA](https://github.com/johnckealy/flora)
    – [Vue-Auth JWT](https://github.com/johnckealy/vue-auth-jwt)
 
-  <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/c930025236511065761f375fd607746a10be9eee/images/whirling.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/c930025236511065761f375fd607746a10be9eee/images/coder.gif?raw=true" width="380" height="220" />
 
 
 **Languages and Tools:**  
