@@ -1,9 +1,11 @@
 ### Hi, I'm John. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/johnckealy/">
-  <img align="left" alt="John Kealy | Linkedin" width="22px" src="https://github.com/johnckealy/johnckealy/blob/c930025236511065761f375fd607746a10be9eee/images/linkedin.svg" />
+  <img align="left" alt="John Kealy | Linkedin" width="22px" src=src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/linkedin.svg" />
 </a>
 
+<br />
+<br />
 <br />
 
 I'm [John Kealy](https://johnkealy.com/), and I'm a full-stack developer. That means that I write code
@@ -18,12 +20,16 @@ check out
    – [FlorA](https://github.com/johnckealy/flora)
    – [Vue-Auth JWT](https://github.com/johnckealy/vue-auth-jwt)
 
-  <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/c930025236511065761f375fd607746a10be9eee/images/coder.gif?raw=true" width="380" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/coder.gif?raw=true" width="380" height="220" />
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/johnckealy/johnckealy/c930025236511065761f375fd607746a10be9eee/images/javascript.png"></code>
-<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/c930025236511065761f375fd607746a10be9eee/images/git.png"></code>
-<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/c930025236511065761f375fd607746a10be9eee/images/python.png"></code>
-<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/c930025236511065761f375fd607746a10be9eee/images/vue.png"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/postgresql.png"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/vue.png"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/Html_css.jpg"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/Linux.png"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/Docker.png"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/javascript.png"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/drf.png"></code>
+<code><img height="20" src="https://github.com/johnckealy/johnckealy/blob/0e1a809b010e5b01a0647469c115a7b9906285fe/images/git.png"></code>
